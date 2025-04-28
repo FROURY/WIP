@@ -1,5 +1,11 @@
-{ 
-"id": %%i, 
-"name": "Sector %%i", 
-"captureTargets": [] 
-} 
+{
+  "name": "sector1",
+  "localizedName": "New Planet",  // Sector 1을 New Planet으로 변경
+  "planet": "Fissura",  // 해당 지역이 포함된 행성
+  "waves": 10,  // 지역에서 진행할 웨이브 수
+  "difficulty": 1.0,  // 지역의 난이도
+  "unlockOn": "sector2",  // Sector 1을 클리어하면 Sector 2가 잠금 해제됨
+  "drops": ["copper", "lead"],  // 이 지역에서 드랍되는 자원
+  "sectorEffect": "None",  // 지역에 영향을 미치는 특수 효과
+  "objective": "Destroy the enemy base"  // 목표 설정
+}
