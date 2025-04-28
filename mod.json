@@ -7,5 +7,8 @@
   "allowLaunchLoadout": true,
   "startSector": "1",
   "alwaysUnlocked": ["copper", "lead", "core-shard"],
-  "version": "v8"
+  "version": "8.0",
+  "description": "Fissura Planet mod with new turrets, blocks, and resources.",
+  "author": "YourName",
+  "game_version": "v8.0.0"
 }
