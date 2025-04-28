@@ -1,0 +1,5 @@
+{ 
+"id": %%i, 
+"name": "Sector %%i", 
+"captureTargets": [] 
+} 
