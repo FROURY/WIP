@@ -1,0 +1,11 @@
+{
+  "name": "sector1",
+  "localizedName": "New Planet",
+  "planet": "Fissura",  // 해당 지역이 포함된 행성
+  "waves": 10,
+  "difficulty": 1.0,
+  "unlockOn": "sector2",
+  "drops": ["copper", "lead"],
+  "sectorEffect": "None",
+  "objective": "Destroy the enemy base"
+}
