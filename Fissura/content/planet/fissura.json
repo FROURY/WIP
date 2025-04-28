@@ -1,10 +1,14 @@
 {
   "name": "Fissura",
   "localizedName": "Fissura",
-  "generator": "fissura",
   "parent": "serpulo",
+  "generator": "serpulo",
   "visible": true,
   "allowLaunchLoadout": true,
-  "startSector": "1",
-  "alwaysUnlocked": ["copper", "lead", "core-shard"]
+  "startSector": 1,   // <- 여기!
+  "alwaysUnlocked": [
+    "copper",
+    "lead",
+    "core-shard"
+  ]
 }
