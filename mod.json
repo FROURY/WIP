@@ -1,15 +1,12 @@
 {
   "name": "Fissura",
-  "localizedName": "Fissura",
   "author": "YourName",
   "version": "v8.0.0",
-  "game_version": "v8.0.0",
   "description": "Fissura Planet mod with new turrets, blocks, and resources.",
-  "parent": "serpulo",
-  "generator": "serpulo",
-  "visible": true,
-  "allowLaunchLoadout": true,
-  "startSector": "1",
-  "alwaysUnlocked": ["copper", "lead", "core-shard"],
-  "dependencies": []
+  "minGameVersion": "146",
+  "content": [
+    "content/blocks",
+    "content/turrets",
+    "content/units"
+  ]
 }
