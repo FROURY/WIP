@@ -1,14 +1,12 @@
 {
   "name": "Fissura",
   "author": "YourName",
-  "version": "v8.0.0",
-  "description": "Fissura Planet mod with new turrets, blocks, and resources.",
+  "version": "1.0.0",
+  "description": "Fissura Planet mod",
   "minGameVersion": "146",
   "content": [
-    "content/blocks",
-    "content/turrets",
-    "content/units",
-    "content/planets",  // Fissura 행성을 포함하는 경로
-    "content/sectors"
+    "content/planets",
+    "content/sectors",
+    "content/maps"
   ]
 }
