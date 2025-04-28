@@ -8,5 +8,5 @@
   "drops": ["copper", "lead"],
   "sectorEffect": "none",
   "objective": "Welcome to New Planet, Fissura Planet.",
-  "map": "sector1"   // <- 중요! msav 파일 이름 (확장자 없이)
+  "map": "sector1"
 }
