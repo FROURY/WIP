@@ -1,12 +1,12 @@
 {
   "name": "sector1",
   "localizedName": "New Planet",
+  "map": "sector1",
   "planet": "Fissura",
-  "waves": 10,
   "difficulty": 1.0,
+  "waves": 10,
   "unlockOn": "none",
   "drops": ["copper", "lead"],
   "sectorEffect": "none",
-  "objective": "Welcome to New Planet, Fissura Planet.",
-  "map": "sector1"
+  "objective": "Destroy the enemy core."
 }
