@@ -7,5 +7,5 @@
   "allowLaunchLoadout": true,
   "startSector": "1",
   "alwaysUnlocked": ["copper", "lead", "core-shard"],
-  "version": "148"
+  "version": "v8"
 }
