@@ -1,7 +1,7 @@
 {
   "name": "Fissura",
   "localizedName": "Fissura",
-  "author": "FROURY",
+  "author": "YourName",
   "version": "v8.0.0",
   "game_version": "v8.0.0",
   "description": "Fissura Planet mod with new turrets, blocks, and resources.",
@@ -11,8 +11,5 @@
   "allowLaunchLoadout": true,
   "startSector": "1",
   "alwaysUnlocked": ["copper", "lead", "core-shard"],
-  "dependencies": [
-    "mineral-sources",
-    "another-required-mod"
-  ]
+  "dependencies": []
 }
