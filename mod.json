@@ -7,6 +7,8 @@
   "content": [
     "content/blocks",
     "content/turrets",
-    "content/units"
+    "content/units",
+    "content/planets",  // Fissura 행성을 포함하는 경로
+    "content/sectors"
   ]
 }
