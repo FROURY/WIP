@@ -1,9 +1,11 @@
 {
   "name": "Fissura",
-  "author": "YourName",
+  "displayName": "Fissura Planet",
+  "author": "[green[]]YourName[purple[]]",
+  "description": "Fissura Planet mod with new turrets, blocks, and resources. Create your base and conquer new sectors!",
+  "subtitle": "Explore new sectors and unlock unique resources!",
   "version": "1.0.0",
-  "description": "Fissura Planet mod",
-  "minGameVersion": "146",
+  "minGameVersion": 146,
   "content": [
     "content/planets",
     "content/sectors",
