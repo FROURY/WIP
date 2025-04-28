@@ -1,9 +1,10 @@
 {
   "name": "Fissura",
   "localizedName": "Fissura",
-  "parent": "serpulo", 
+  "parent": "serpulo",
   "generator": "serpulo",
   "visible": true,
+  "accessibility": "visible",
   "allowLaunchLoadout": true,
   "startSector": 1,
   "alwaysUnlocked": [
